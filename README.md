@@ -1,5 +1,7 @@
 <body>
 <h1 align="center">Line Follower - Introduction to Robotics Project</h1>
+ <br>
+
  <p>&emsp;   This is a car-like robot that is designed to follow a a line or path using a reflectance sensor array, keeping the line under the middle sensors. The goal is to move on the line to complete a circuit as fast as possible. T</p>
 
  
