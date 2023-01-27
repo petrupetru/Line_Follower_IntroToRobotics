@@ -3,7 +3,12 @@
  <br>
 
  <p>&emsp;   This is a car-like robot that is designed to follow a a line or path using a reflectance sensor array, keeping the line under the middle sensors. The goal is to move on the line to complete a circuit as fast as possible. T</p>
-
+<h3>&emsp; Context:</h3>
+<p>&emsp; -Team of 2 at "Introduction to Robotics" course 
+<br>
+&emsp; -Recived a kit, assembled it and programmed it 
+<br>
+&emsp; -Had to finish the circuit in less than 20 seconds.</p>
  
   <p>&emsp; The array of reflectance sensors is placed on the bottom of the robot and is used to detect the contrast between the line and the surrounding surface. The sensors send signals to the control system, which uses this information to calculate the position of the robot on the line.</p>
  
