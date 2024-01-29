@@ -6,7 +6,7 @@
 <h3>&emsp; Context:</h3>
 <p>&emsp; -Team of 2 at "Introduction to Robotics" course 
 <br>
-&emsp; -Recived a kit, assembled it and programmed it 
+&emsp; -Received a kit, assembled it and programmed it 
 <br>
 &emsp; -Had to finish the circuit in less than 20 seconds.</p>
  
